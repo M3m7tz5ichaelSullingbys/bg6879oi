@@ -1,1 +1,2 @@
 Refactor codebase with Z [XJ1DRH] line 5.1
+Update documentation [HB5Xjt] line 7.2
